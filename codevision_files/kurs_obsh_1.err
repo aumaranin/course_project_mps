@@ -1,0 +1,16 @@
+Creating   'kurs_obsh_1.eep'
+Creating   'kurs_obsh_1.obj'
+Creating   'kurs_obsh_1.lst'
+
+Assembling 'kurs_obsh_1.asm'
+Including  'kurs_obsh_1.vec'
+Including  'kurs_obsh_1.inc'
+
+Program memory usage:
+Code             :  596 words
+Constants (dw/db):   42 words
+Unused           :    0 words
+Total            :  638 words
+
+Assembly complete with no errors.
+Deleting   'kurs_obsh_1.eep'

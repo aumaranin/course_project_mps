@@ -1,0 +1,21 @@
+CodeVisionAVR C Compiler V1.24.2c Evaluation
+(C) Copyright 1998-2004 Pavel Haiduc, HP InfoTech s.r.l.
+http://www.hpinfotech.ro
+e-mail:office@hpinfotech.ro
+
+File: C:\Users\electronics_win7\Documents\CodeVisionAVR\kurs_obsh_1\kurs_obsh_1.c
+Global variables memory map:
+
+Variable                          Address   Size
+porog_temp                             R4      1
+digit                                160h     22
+razr                                 176h     10
+dat_adr                              180h     14
+dat_temp1                              R5      1
+dat_temp2                              R6      1
+message                              18Eh      5
+fl                                     R7      1
+dat_num                                R8      1
+usart_message                        193h      8
+re_mes                               19Bh      4
+us_s                                   R9      1
